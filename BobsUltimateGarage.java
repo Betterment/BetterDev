@@ -1,4 +1,4 @@
-package com.betterment.service.cashtracking.impl;
+package com.betterment.betterdev;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
@@ -20,7 +20,7 @@ import com.google.common.collect.Sets;
 /**
  * Bob's Garage : procedural conditions vs functional rules engine.
  * 
- * This is a huge class with two section. First uses if/else conditionals. The second uses functional idioms to make our
+ * This is a huge class with two sections. First uses if/else conditionals. The second uses functional idioms to make our
  * code more elegant and perhaps even more powerful!
  * 
  * @author Yuriy M Goldman (yuriy@betterment.com)
